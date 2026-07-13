@@ -1,4 +1,4 @@
-Programa 7: variables locales y globales
+Programa 8: operaciones con decimales (float)
 
 
 
